@@ -2,5 +2,6 @@
 
 ## Repositório aulas SENAI (Node) ##
 
-![](![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![](![](![](https://dfilitto.blog.br/wp-content/uploads/2019/03/nodejs-new-pantone-black.png)
+)
 )
